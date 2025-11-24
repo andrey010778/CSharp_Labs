@@ -1,6 +1,6 @@
 ﻿namespace Sg
 {
-    public class Program
+    public class sg
     {
         public static void Main(string[] args)
         {
